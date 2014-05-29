@@ -1,6 +1,6 @@
-# Branching strategies
+## Branching strategies
 
-## TODO
+### TODO
 
 - No branches
 - Master branch
