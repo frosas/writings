@@ -38,3 +38,4 @@ Cons:
 - Versioning
 - Code reviews
 - Pull requests
+- Remote branches
