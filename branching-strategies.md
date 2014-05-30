@@ -14,6 +14,8 @@ Cons: it's too simple for any real piece of software. Probably you only want to 
 
 It's hard to imagine a project without changes. Having a source control system with a single branch (usually called 'master' or 'trunk') allows keeping a history of the changes.
 
+Ideally a commit should contain a single meaningful change.
+
 Pros:
 
 - When commit messages are meaningful, you have a nice log of the changes done.
@@ -23,7 +25,7 @@ Pros:
 Cons:
 
 - You have to learn to use the source control system.
-- Every meaningful change requires doing the extra step of creating a commit.
+- Now you have extra steps to do as you make changes (at least creating a commit for every meaningful change)
 
 ---
 
